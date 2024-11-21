@@ -2,6 +2,7 @@
 
 A simple Game of Snake using HTML and CSS along with ReactJS
 By: Avinash Ranjan
+
 Some points about this game:
 1. Interactive Game Development: Designed and implemented a dynamic Snake Game using HTML, CSS, and JavaScript, focusing on smooth animations and responsive controls.
 
